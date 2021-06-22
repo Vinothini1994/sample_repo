@@ -1,2 +1,2 @@
 # sample_repo
-sample repository
+This is sample repository
